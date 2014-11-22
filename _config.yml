@@ -1,0 +1,13 @@
+name: "farez.ca"
+description: Can't stop the signal
+meta_description: "Hi, I'm Farez. Comp sci student"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+permalink: /:title/
+
+# Details for the RSS feed generator
+url:            'farez.ca'
+author:         'farezv'
