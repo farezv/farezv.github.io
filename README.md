@@ -1,7 +1,6 @@
 # Kasper
 
-My blog uses a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+My blog uses a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll.
 
 ## How to use it
 
