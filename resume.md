@@ -13,14 +13,14 @@ I’m a senior computer science student seeking a software development internshi
 
 ### WORK EXPERIENCE
 
-##### Software Engineer Intern at Citrix ShareFile (Raleigh, North Carolina)				
-Aug 2014 - Oct 2014
+##### Software Engineer Intern at Citrix ShareFile 
+Raleigh, North Carolina (Aug 2014 - Oct 2014)
 
 * Implemented a "real-time" proof of concept to consume events from a notification server for the ShareFile web app using ASP.NET's SignalR library and TypeScript
 * Implemented some unit tests in TypeScript using Chutzpah for code coverage
 
-##### Software Engineer Intern at Genesis Gaming (Vancouver, Canada)			
-Feb 2014 - July 2014
+##### Software Engineer Intern at Genesis Gaming 
+Vancouver, Canada (Feb 2014 - July 2014)
 
 * Leveraged open source libraries like OxyPlot & PdfSharp to add PDF output to an internal WPF tool written in C# and XAML. This tool is used to analyze simulation of math models
 * Implemented a larger simulation based on existing smaller ones to assess math model volatility
