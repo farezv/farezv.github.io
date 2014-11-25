@@ -7,7 +7,7 @@ comments: true
 
 ---			
 		
-###[GitHub](http://github.com/farezv) | [LinkedIn](http://linkedin.com/in/farezv)
+#####[GitHub](http://github.com/farezv) | [LinkedIn](http://linkedin.com/in/farezv)
 										      
 I’m a senior computer science student seeking a software development internship.
 
