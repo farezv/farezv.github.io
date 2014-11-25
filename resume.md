@@ -1,13 +1,11 @@
 ---
 layout: page
-title: WordPress
+title: Farez Vadsaria
 date: 2014-03-08 23:08
 author: farezv
 comments: true
 
----
-
-# Farez Vadsaria				
+---			
 		
 ###[GitHub](http://github.com/farezv) | [LinkedIn](http://linkedin.com/in/farezv)
 										      
