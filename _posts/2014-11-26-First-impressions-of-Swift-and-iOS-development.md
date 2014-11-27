@@ -16,7 +16,7 @@ Xcode is a fantastic IDE. I'm sure every IDE has its performance problems (and I
 
 I also really love the systematic Model, View, ViewController way of developing an iOS apps. It reminds me of your typical MVC/MVVM family of architectures and any developer who has worked in those will feel right at home.
 
-One of the biggest things I really like, is connecting View elements from the Interface Builder directly to your ViewController and how it creates the `@IBOutlet` property for you.
+I really like connecting View elements from the Interface Builder directly to your ViewController code and how it creates the `@IBOutlet` property for you and makes the connection in a single step.
 
 ### Language syntax and features
 
@@ -31,4 +31,10 @@ var subtotal: Double {
 ```
 Syntactic sugar like no need for parentheses on conditional statements is amazing and even though braces are required for single line conditional clauses, I'm glad that's enforced.
 
+![Cause of the infamous SSL bug](/http://i.stack.imgur.com/MKaHK.jpg)
 
+Not having to type a semicolon at the end of every line is a huge blessing in disguise. It sounds silly to be thankful for such trivial syntactic improvements but it results in an incredibly pleasant programming experience. Especially when you consider the fact that programs are _read_ more often than written.
+
+At a Swift [meetup](http://www.meetup.com/Axiom-Zen-Meetups-Drinkups-and-Hackathons/events/218649939/) I went to last week, the presenter showed a "script" like program written in Swift. He also showed a snippet where he was reading things from a file and using functions like `map` and `filter` all in one line, a very functional style of programming.
+
+I'm not sure I'll use Swift in those unconventional ways, but I'm glad it's flexible enough. I'm just really glad to see a language that incorporates object oriented programming well without the verbosity of Java. It even has [generics](https://developer.apple.com/library/ios/documentation/swift/conceptual/Swift_Programming_Language/Generics.html)!
