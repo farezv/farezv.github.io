@@ -12,10 +12,10 @@ I started learning Swift recently in order to pick up some iOS programming and I
 
 I'm really glad I came to iOS development after Swift was released because going through tutorials like [this one](http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app) made me realize how much of a pain in the ass Objective-C is.
 
-![Tip Calculator from a tutorial](/https://s3-us-west-2.amazonaws.com/farezcablog/iOSDevTipCalculator.png)
+![Tip Calculator from a tutorial](https://s3-us-west-2.amazonaws.com/farezcablog/iOSDevTipCalculator.png)
 `Not sure why some of the UI elements are cut off on the right, perhaps because the Tip Calculator scene in Interface Builder has a large view`
 
-![Tip Calculator view in Interface Builder](/https://s3-us-west-2.amazonaws.com/farezcablog/iOSDevTipCalculatorScene.png)
+![Tip Calculator view in Interface Builder](https://s3-us-west-2.amazonaws.com/farezcablog/iOSDevTipCalculatorScene.png)
 `Not sure how to make this the size of the intended simulator device`
 
 I've done some kernel programming for an OS class in C and I already knew of all the baggage it carried so I'm super glad I don't have to go through that for iOS. I think the biggest thing iOS has going for it, is the tooling.
@@ -41,7 +41,7 @@ var subtotal: Double {
 ```
 Syntactic sugar like no need for parentheses on conditional statements is amazing and even though braces are required for single line conditional clauses, I'm glad that's enforced.
 
-![Cause of the infamous SSL bug](/http://i.stack.imgur.com/MKaHK.jpg)
+![Cause of the infamous SSL bug](http://i.stack.imgur.com/MKaHK.jpg)
 
 Not having to type a semicolon at the end of every line is a huge blessing in disguise. It sounds silly to be thankful for such trivial syntactic improvements but it results in an incredibly pleasant programming experience. Especially when you consider the fact that programs are _read_ more often than written.
 
