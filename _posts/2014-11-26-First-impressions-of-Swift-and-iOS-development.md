@@ -1,8 +1,12 @@
 ---
-published: true
----
+layout: post
+title: First impressions of Swift and iOS development
+date: 2014-11-27 18:45
+author: farezv
+comments: true
+categories: [programming, swift, iOS]
 
-## First impressions of Swift and iOS development
+---
 
 I started learning Swift recently in order to pick up some iOS programming and I'm pretty impressed with the language so far.
 
