@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## First impressions of Swift and iOS development
