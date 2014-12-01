@@ -6,6 +6,7 @@ author: farezv
 comments: true
 categories: []
 published: true
+
 ---
 
 Here are some of the 'demo-able' projects I've worked on. I have other app ideas (both web and mobile based) that'll hopefully show up here in the near future. All code resides on [GitHub](http://github.com/farezv).
@@ -21,5 +22,7 @@ I like reading developer blogs but searching through individual GitHub profiles,
 Project that consumes the Steam api to showcase a user's video game related data in a "report card" like manner (work in progress). Inspired by [The Open Source Report Card](http://osrc.dfm.io). Currently only shows basic profile data.
 
 ## [Sorting Library Call Numbers](http://sortsomething.appspot.com)
+
+[![](https://s3-us-west-2.amazonaws.com/farezcablog/img/SLCNgreen.png)](http://sortsomething.appspot.com)
 
 A Google Web Toolkit app that quizzes people on their library call number sorting. I implemented an unconventional string sorting algorithm to verify correct answers and to ensure I met UBC library's call number sorting scheme.
