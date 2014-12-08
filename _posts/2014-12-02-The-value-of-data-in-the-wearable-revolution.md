@@ -14,6 +14,12 @@ The crazy thing about software today is how cheap it is to build it. There are t
 
 The real value comes from data, it seems. The cost of building mobile and web apps, and scaling them to millions of users is pennies on the dollar when you think about all the valuable data that software produces. Facebook's done it with social data, but I think health-related data is far more useful. 
 
-Think about how easy it would be to have large health-related data readily available for scientific research. This would dramatically reduce the amount of time and resources needed to produce (and bring to market) all kinds of healthcare products.
+Think about how easy it would be to have large health-related data readily available for scientific research. Grad students and researchers would have to spend less time collecting data and could gain a deeper understanding of their research topic. This would dramatically reduce the amount of time and resources needed to produce (and bring to market) all kinds of healthcare products.
 
+Healthcare could switch from a curing to preventative approach where people don't go to the doctor _after_ the symtomps appear. Paul Graham talks about this in his [PyCon 2012 talk](https://www.youtube.com/watch?v=R9ITLdmfdLI#t=85) where he presents his [Frighteningly Ambitious Startup Ideas](http://www.paulgraham.com/ambitious.html). 
 
+> I'm pretty sure that to people 50 or 100 years in the future, it will seem barbaric that people in our era waited till they had symptoms to be diagnosed with conditions like heart disease and cancer.
+
+That is exactly what having large scale personal health data would allow. People could actively monitor their health & prevent themselves from getting sick. This data, if used correctly, could have massively beneficial effects on a population's long term health.
+
+The last generation of devices have made people's lives incredibly effiecient.
