@@ -6,7 +6,7 @@ I'm working on an android app that requires data to be scraped from a web page (
 
 ### Navigating complex html
 
-The first problem I encountered was the incredibly complex HTML structure. I mean we're talking `divs` inside `divs` that would confuse the creators of Inception. If this HTML document was a human, it would be some genetically malformed mutant designed specifically to create chaos and bring upon the downfall of manking. It's that bad.
+The first problem I encountered was the incredibly complex HTML structure. I mean we're talking `divs` inside `divs` that would confuse the creators of Inception. If this HTML document was a human, it would be some genetically malformed mutant designed specifically to create chaos and bring upon the downfall of mankind. It's that bad.
 
 I finally managed to extract the little information I needed using [cheerio's](http://npmjs.org/package/cheerio) JQuery-like DOM parsing syntax. And then I noticed the following problem.
 
@@ -15,3 +15,17 @@ I finally managed to extract the little information I needed using [cheerio's](h
 One issue that I saw coming up was that the data mostly came in the same format except in certain instances where one of the fields of interest was missing (and therefore blank). For instance, the call number was missing sometimes like in the following example.
 
 This caused issues in the way the data was scraped and I had to add additional checks to ensure consistent JSON was being produced right before I sent the data to clients. My biggest concern with this, is the "future-proofability" of my scraping logic. It really makes you wonder how large scale web crawlers (aka search engines like Google) keep up with the ever-changing face of web data. 
+
+I will have to come up with ways to periodically check this format and ensure it hasn't changed. If it does change, I will need to modify the backend of my app service ASAP. 
+
+### Caching
+
+One way to mitigate the changing face of data would be to cache it, but there's a large tradeoff here, especially if your application provides data that benefits from being as real-time as possible (which mine does).
+
+Looking up books to see if they're available at a library nearby is useless if the data (aka availability of the book) changes & that change isn't reflected in the app. So I also need to come up with ways to cache things smartly, where I can store most of the info needed, and only check for availability upon request. This is a big task and will probably require a post of its own.
+
+### Weird strings
+
+Another thing I noticed was all kinds of strange white spaces & carriage returns in the strings I scraped but thankfully JavaScript functions like `.trim()` took care of most of it!
+
+And finally, here it is. Nice clean JSON!
