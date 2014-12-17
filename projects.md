@@ -11,6 +11,12 @@ published: true
 
 Here are some of the 'demo-able' projects I've worked on. I have other app ideas (both web and mobile based) that'll hopefully show up here in the near future. All code resides on [GitHub](http://github.com/farezv).
 
+## Rezbot & [Scaling-Robot](http://github.com/farezv/scaling-robot)
+
+The mobile experience for my [university's library](http://library.ubc.ca) is really slow and clunky. The pages load slowly and provide too much information. So I'm making an Android app to solve this problem (will work on iOS once I'm happy with the Android version). 
+
+Scaling-robot is the backend Node.js server that web scrapes the library's site to provide book search results. Will update this page once the app is on the Google Play Store.
+
 ## [Hublogs](http://hublogs.farezv.com)
 
 [![](https://farezca.files.wordpress.com/2014/10/2t-e1416689086555.png)](http://hublogs.farezv.com)
