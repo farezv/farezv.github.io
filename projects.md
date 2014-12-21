@@ -13,6 +13,8 @@ Here are some of the 'demo-able' projects I've worked on. I have other app ideas
 
 ## Rezbot & [Scaling-Robot](http://github.com/farezv/scaling-robot)
 
+![](https://s3-us-west-2.amazonaws.com/farezcablog/img/Icon-72%402x.png)
+
 The mobile experience for my [university's library](http://library.ubc.ca) is really slow and clunky. The pages load slowly and provide too much information. So I'm making an Android app to solve this problem (will work on iOS once I'm happy with the Android version). 
 
 Scaling-robot is the backend Node.js server that web scrapes the library's site to provide book search results. Will update this page once the app is on the Google Play Store.
