@@ -9,7 +9,7 @@ comments: true
 		
 #####[GitHub](http://github.com/farezv) | [LinkedIn](http://linkedin.com/in/farezv)
 										      
-I’m a senior computer science student seeking a software development internship.
+I’m a senior computer science student seeking a software development role.
 
 ### WORK EXPERIENCE
 
@@ -33,10 +33,8 @@ Vancouver, Canada (Feb 2014 - July 2014)
 * Currently supports searching by individual username or organization name
 * Roadmap includes redis caching and repository metadata to show a user which repos are active
 
-[**SteamRC**](http://steamrc.herokuapp.com): Node.js web app to display Steam profile information in a “report card” format, inspired by “The Open Source Report Card” project
-
-* Currently shows basic profile data
-* Roadmap includes redis caching and showcasing player’s backpack items for certain games
+**Rezbot** & [**s​caling-­robot**](http://github.com/farezv/scaling-robot):​ A​ndroid app & Node.js server that help users search library books
+* Implemented scraping of simple book search results from UBC library’s website* Implemented basic communication between Android client & Node.js server using socket.io
 
 [**SLCN**](http://sortsomething.appspot.com): a Google Web Toolkit app that quizzes people on library call number sorting
 
@@ -46,10 +44,11 @@ Vancouver, Canada (Feb 2014 - July 2014)
 ##### Khan Academy app for Firefox OS 
 (forked from [here](http://github.com/bbondy/khan-academy-fxos))
 
+* Helped implement user­-controlled video playback speed
 * Improved the README by adding a couple of build instructions
 
 ### TECHNICAL SKILLS
-* Programmed in Java, C, C#, TypeScript and currently learning Node.js based JavaScript
+* Programmed in Java, C, C#, TypeScript, Node.js based JavaScript, and currently learning Android
 * Very comfortable with Visual Studio, Eclipse, the UNIX command line and the Git branching model
 
 ### EDUCATION
