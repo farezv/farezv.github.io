@@ -1,4 +1,10 @@
-# Who is Occupy Wall Street?
+---
+layout: page
+title: Who is Occupy Wall Street?
+date: 2015-03-05 22:15
+author: farezv
+comments: true
+---
 
 > In mid-October, business intelligence analyst Harrison Schultz and professor Hector R. Cordero-Guzman from the School of Public Affairs at Baruch College analyzed results from 5,006 completed surveys at occupywallst.org. Here's what they learned from respondents. - Fast Company
 
