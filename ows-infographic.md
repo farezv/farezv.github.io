@@ -18,14 +18,14 @@ comments: true
 ## Belonging to different genders
 ![](http://i.imgur.com/7S6AlgF.png)
 
+## Believing in different political ideologies
+![](http://i.imgur.com/PwWmCqT.png)
+
 ## With varying income levels
 ![](http://i.imgur.com/PkuURGS.png)
 
 ## Because some can't find work
 ![](http://i.imgur.com/lSO2iJf.png)
 
-## They have different political ideologies
-![](http://i.imgur.com/PwWmCqT.png)
-
-## And different educational levels
+## Despite their educational levels
 ![](http://i.imgur.com/cXmdWPL.png)
