@@ -21,11 +21,11 @@ comments: true
 ## With varying income levels
 ![](http://i.imgur.com/PkuURGS.png)
 
-## Working as they can
+## Because some can't find work
 ![](http://i.imgur.com/lSO2iJf.png)
 
-## With different political ideologies
+## They have different political ideologies
 ![](http://i.imgur.com/PwWmCqT.png)
 
-## With different educational levels
+## And different educational levels
 ![](http://i.imgur.com/cXmdWPL.png)
