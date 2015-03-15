@@ -11,7 +11,7 @@ published: true
 
 Here are some of the 'demo-able' projects I've worked on. I have other app ideas (both web and mobile based) that'll hopefully show up here in the near future. All code resides on [GitHub](http://github.com/farezv).
 
-## [BookFish](http://github.com/farezv/bookfish)
+## [BookFish](http://farezv.github.io/bookfish)
 
 The mobile experience for my [university's library](http://library.ubc.ca) is really slow and clunky. The pages load slowly and provide too much information. So I'm making an Android app to solve this problem (will work on iOS once I'm happy with the Android version). 
 
