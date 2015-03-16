@@ -22,7 +22,7 @@ I've completed courses in software engineering, computer systems and networks, a
 
 I started working when I was 15 and had a number of part time jobs throughout most of my high school and college life.
 
-Recently, I got some internship experience (in a small game studio and at Citrix ShareFile) and I'm actively seeking internship opportunities starting December 2014 or January 2015.
+Recently, I got some internship experience (in a small game studio and at Citrix ShareFile) and I'm actively seeking opportunities starting summer 2015.
 
 My "professional programming" experience only spans C# and TypeScript but I try to keep up with the latest technology trends in my [side projects](http://farez.ca/projects.html) and have programmed in Java, C, and C++ before. I'm positive I'd have no issues picking up new languages and frameworks to get the job done.
 
