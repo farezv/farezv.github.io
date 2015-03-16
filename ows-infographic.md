@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Who is Occupy Wall Street?
+subtitle: An infographic for my ENGL 307 class
+header-img: img/whois-ows.jpg
 date: 2015-03-05 22:15
 author: farezv
 comments: true

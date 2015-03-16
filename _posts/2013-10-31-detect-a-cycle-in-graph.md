@@ -23,34 +23,35 @@ There are two types of cycles within a graph. A strong cycle is one where there 
 If we start at some arbitrary node A, and traverse through the graph, we can "flag" each node as "visited." During our traversal, if we arrive at a previously visited node, we've detected a cycle and can return true. Otherwise, we've traversed through the whole graph and can return false. This seems to have a time complexity of O(n). Time to implement it.
 
 ```java
-public class Node {
-	Node next = null;
-	//...other fields
-	boolean visited = false;
 
-	public Node() {
-		//...initialize fields if needed
-	}
-}
-
-public class Graph {
-	Node start = new Node();
-
-	public Graph() {
-		//...initialize fields if needed
-	}
-
-	public boolean findCycle(Graph g) {
-		while(g.start.next != null) { // continue if this isn't the last node
-
-			if(g.start.visited) {	// return if node has been visited
-				return true;
-			}
-
-			g.start.visited = true; // otherwise, flag as visited
-			g.start = g.start.next; // move to the next node
+	public class Node {
+		Node next = null;
+		//...other fields
+		boolean visited = false;
+	
+		public Node() {
+			//...initialize fields if needed
 		}
-		return false; // otherwise, return because no cycles found
 	}
-}
+	
+	public class Graph {
+		Node start = new Node();
+	
+		public Graph() {
+			//...initialize fields if needed
+		}
+	
+		public boolean findCycle(Graph g) {
+			while(g.start.next != null) { // continue if this isn't the last node
+	
+				if(g.start.visited) {	// return if node has been visited
+					return true;
+				}
+	
+				g.start.visited = true; // otherwise, flag as visited
+				g.start = g.start.next; // move to the next node
+			}
+			return false; // otherwise, return because no cycles found
+		}
+	}	
 ```
