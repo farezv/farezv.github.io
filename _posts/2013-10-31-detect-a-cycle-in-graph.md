@@ -22,8 +22,7 @@ There are two types of cycles within a graph. A strong cycle is one where there 
 
 If we start at some arbitrary node A, and traverse through the graph, we can "flag" each node as "visited." During our traversal, if we arrive at a previously visited node, we've detected a cycle and can return true. Otherwise, we've traversed through the whole graph and can return false. This seems to have a time complexity of O(n). Time to implement it.
 
-```java
-
+```
 	public class Node {
 		Node next = null;
 		//...other fields
