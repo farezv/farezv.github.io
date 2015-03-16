@@ -10,7 +10,8 @@ So in order to understand what low-level programming is, one must know about the
 
 Somewhere in the depths of bits and switches, low-level code looks like this (credit to CPSC 213 at UBC). We have instructions that perform small steps like load (read), store (write) and jump/branch (functions, if statements, and loops) using registers which are essentially temporary storage devices for the processor. Load and store operations also use memory directly, so they're incredibly fast, but also very dangerous if used incorrectly. Consider the following snippet:
 
-<code>ld $5 r0        // loading the value 5 in register 1
+```
+ld $5 r0        // loading the value 5 in register 1
 ld $4 r1
 ld $3 r2
 not r1          // r1 = - r1 = -4
@@ -19,7 +20,7 @@ bgt r1 b1       // jump to label b1 if r1 &gt; 0
 else: add r2 r0 // execution of this instruction depends on conditional branch
 st  r0          // r0 = 8
 b1: st  r0      // r0 = 5
-</code>
+```
 
 The first three lines simply load values into registers. Performing subtraction requires 4 steps (lines 1,2,4 and 5) and a comparison requires 5. Keep in mind, we could easily have a pointer to a variable defined earlier (via it's memory address) in line 1 where we load 5 into register 1. "Else" and "b1" are labels, they don't mean anything. Assembly programmers use labels to identify conditional statements and branches.
 
