@@ -1,8 +1,8 @@
 # Site settings
 title: farez.ca
-header-img: img/home-bg.jpg
+header-img: img/soldneer.jpg
 email: info@farez.ca
-description: "Nerd words about work and play"
+description: "Nerd words of work and play"
 baseurl: ""
 url: "http://farez.ca"
 twitter_username: farezv
@@ -12,6 +12,6 @@ quora_username: Farez-Vadsaria
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
-paginate: 5
+permalink: /:title
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
