@@ -76,22 +76,23 @@ The problem with this approach is that it leaves the program less robust for a f
 
 I finally decided to extend the Button class from Google Web Toolkit (the framework I'm using to build this app) and have with an array of strings with each element corresponding to a level. This array could be populated easily by a regular expression call, like `string.split("\s+")`
 
-```java
-public class CallNumberButton extends Button {
-
-    // CallNumber broken into strings. For instance, "A100 TA2 2006" is ["A100" "TA2" "2006"]
-	private String[] levels;
-	private int rank;
-
-	/* Constructor sets title and fills up the levels array
-	 * */
-	public CallNumberButton(String string) {
-
-		this.setTitle(string);
-		levels = string.split("\\s+"); // splitting by whitespace
-		rank = -1;
+```
+	
+	public class CallNumberButton extends Button {
+	
+	    // CallNumber broken into strings. For instance, "A100 TA2 2006" is ["A100" "TA2" "2006"]
+		private String[] levels;
+		private int rank;
+	
+		/* Constructor sets title and fills up the levels array
+		 * */
+		public CallNumberButton(String string) {
+	
+			this.setTitle(string);
+			levels = string.split("\\s+"); // splitting by whitespace
+			rank = -1;
+		}
 	}
-}
 ```
 
 This gives me a very easy way to keep track of which call number level I'm dealing with, since all I have to do is check if the index is 0 or `levels.length - 1`
