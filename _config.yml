@@ -1,13 +1,17 @@
-name: "farez.ca"
-description: Can't stop the signal
-meta_description: "Hi, I'm Farez. Comp sci student"
+# Site settings
+title: farez.ca
+header-img: img/home-bg.jpg
+email: info@farez.ca
+description: "Nerd words about work and play"
+baseurl: ""
+url: "http://farez.ca"
+twitter_username: farezv
+github_username:  farezv
+quora_username: Farez-Vadsaria
 
-markdown: redcarpet
+# Build settings
+markdown: kramdown
 highlighter: pygments
-logo: false
-paginate: 15
-permalink: /:title/
-
-# Details for the RSS feed generator
-url:            'farez.ca'
-author:         'farezv'
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
