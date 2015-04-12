@@ -25,10 +25,6 @@ A Node.js server that web scrapes the library's site to provide book search resu
 
 I like reading developer blogs but searching through individual GitHub profiles, and organization member lists is tedious. Hublogs makes an attempt to solve this problem by showcasing developer profiles based on a GitHub user or organization search.
 
-## [Steam Report Card](http://steamrc.herokuapp.com)
-
-Project that consumes the Steam api to showcase a user's video game related data in a "report card" like manner (work in progress). Inspired by [The Open Source Report Card](http://osrc.dfm.io). Currently only shows basic profile data.
-
 ## [Sorting Library Call Numbers](http://sortsomething.appspot.com)
 
 [![](https://s3-us-west-2.amazonaws.com/farezcablog/img/SLCNgreen.png)](http://sortsomething.appspot.com)
