@@ -24,7 +24,7 @@ I started working when I was 15 and had a number of part time jobs throughout mo
 
 During university I interned at [Genesis Gaming](http://gen-game.com) and at [Citrix ShareFile](http://sharefile.com) and I've been working at Genesis full time since June 2015.
 
-My professional programming experience spans Java, C#, TypeScript and Haxe and I try to keep up with the latest tech with my [side projects](http://farez.ca/projects.html)("try" being the imperative word) and have programmed in C (with in-line assembly for an OS class O_O), and C++ before. I'm positive I'd have no issues picking up new languages and frameworks to get the job done.
+My professional programming experience spans Java, C#, TypeScript and Haxe and I try to keep up with the latest tech with my [side projects](http://farez.ca/projects.html) ("try" being the imperative word). I've also programmed in C and C++ before, for school projects. I'm positive I'd have no issues picking up new languages and frameworks to get the job done.
 
 If my experience and skill set aligns well with an opportunity you know about, please get in touch via [LinkedIn](http://linkedin.com/in/farezv).
 
