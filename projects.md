@@ -9,7 +9,7 @@ published: true
 
 ---
 
-Here are some of the 'demo-able' projects I've worked on. I have other app ideas (both web and mobile based) that'll hopefully show up here in the near future. All code resides on [GitHub](http://github.com/farezv).
+Here are some of the 'demo-able' projects I've worked on. All code resides on [GitHub](http://github.com/farezv). Since I find myself fascinated with music and other hobbies these days, I don't have the time to update/maintain my old projects, but I leave them here just for reference.
 
 ## [BookFish](http://farezv.github.io/bookfish)
 
