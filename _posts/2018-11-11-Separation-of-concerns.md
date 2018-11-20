@@ -12,7 +12,7 @@ Is this thing still on? Phew, it's been a while.
 
 While working on my (now unmaintained/unlisted) [Android app](http://farez.ca/bookfish/) 4 years ago, I stumbled across an example of separation of concerns and the benefits of having software run in "the cloud." Developing software modules separately enough, in a RESTful way such that clients don't consider that ever-changing nature of server code is incredibly useful in today's world of constant connectedness and SHIP SHIP SHIP CODE!
 
-!(image)[https://i.imgur.com/pB0VXKq.png]
+![image](https://i.imgur.com/pB0VXKq.png)
 
 With many software services' `1-to-n` sync, and a surge of wearables over the last few years we're increasingly getting the same data synced to our brains through a network of personal devices and all this happens faster than you can say "SAMOSA!"
 
